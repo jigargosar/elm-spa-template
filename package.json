@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "elm-spa-template",
   "dependencies": {
     "elm": "^0.19.1-5",
     "uglify-js": "^3.17.0"
